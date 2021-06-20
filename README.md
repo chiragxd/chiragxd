@@ -1,7 +1,4 @@
-### Hi there, I'm Chirag  [website] 👋
-
-<!-- [![Website](https://img.shields.io/website?label=swapnilsoni.xyz&style=for-the-badge&url=https://swapnilsoni.xyz)](https://swapnilsoni.xyz) -->
-[![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com)
+### Hi there, I'm Chirag   👋
 
 
 ## I'm a Student, Programmer, and Gamer(ofcourse)!
