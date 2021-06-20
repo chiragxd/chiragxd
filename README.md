@@ -4,11 +4,11 @@
 [![Website](https://img.shields.io/website?label=gamerary.com&style=for-the-badge&url=https://gamerary.com)](https://gamerary.com)
 
 
-## I'm a Student, Developer, and Lazy Person(ofcourse)!
+## I'm a Student, Programmer, and Gamer(ofcourse)!
 
-- 🔭 I’m currently working on a [Gaming Platform](https://gamerary.com)!
-- 🥅 2021 Goals: Contribute more to Open Source projects and build my gaming platform!
-- ⚡ Hobbies: I love reverse engineering websites and building Custom ROMs!
+- 🔭 I’m currently learning advanced javascript.
+- 🥅 2021 Goals: Hope to finish whole full-stack course and create multiple projects to showcase in my portfolio
+- ⚡ Hobbies: I love to learn about emerging technologies, programming and gaming
 
 ### Connect with me:
 
