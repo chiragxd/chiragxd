@@ -3,7 +3,7 @@
 
 ## I'm a Student, Programmer, and Gamer(ofcourse)!
 
-- 🔭 I’m currently learning advanced javascript.
+- 🔭 I’m currently learning  javascript.
 - 🥅 2021 Goals: Hope to finish whole full-stack course and create multiple projects to showcase in my portfolio
 - ⚡ Hobbies: I love to learn about emerging technologies, programming and gaming
 
