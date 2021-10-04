@@ -42,6 +42,8 @@
 [instagram]: https://instagram.com/chirag2899_
 [linkedin]: https://www.linkedin.com/in/ch1ragpanchal
 
+<br>
+
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" height="60px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  <br>
