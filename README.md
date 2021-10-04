@@ -1,7 +1,7 @@
-### Hi there, I'm Chirag   👋
+### Hi there  Chirag Panchal 👋
+![](https://komarev.com/ghpvc/?username=chiragxd)
 
-
-## I'm a Student, Programmer, and Gamer(ofcourse)!
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently learning  javascript.
 - 🥅 2021 Goals: Hope to finish whole full-stack course and create multiple projects to showcase in my portfolio
