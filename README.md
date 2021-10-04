@@ -42,6 +42,8 @@
 [instagram]: https://instagram.com/chirag2899_
 [linkedin]: https://www.linkedin.com/in/ch1ragpanchal
 
+<hr>
+
 <br>
 
  <p align="center">
