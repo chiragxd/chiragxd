@@ -37,10 +37,6 @@
 
 <br />
 
-### Github Stats
-
-<img alt="Swapnil Soni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chiragxd&show_icons=true&count_private=true" />
-
 [website]: https://chiragxd.ml
 [facebook]: https://fb.me/ch1ragpanchal
 [instagram]: https://instagram.com/chirag2899_
