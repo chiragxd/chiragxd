@@ -3,8 +3,8 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently learning  javascript.
-- 🥅 2021 Goals: Hope to finish whole full-stack course and create multiple projects to showcase in my portfolio
+- 🔭 I’m currently learning  robot and plc programming
+- 🥅 2022 Goals: Finish what i started. 
 - ⚡ Hobbies: I love to learn about emerging technologies, programming and gaming
 
 ### Connect with me:
