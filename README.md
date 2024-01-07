@@ -1,4 +1,4 @@
-### Hi there  Chirag Panchal 👋
+### Hi there I am Chirag Panchal 👋
 ![](https://komarev.com/ghpvc/?username=chiragxd)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+a+Student%2C+Developer!)](https://git.io/typing-svg)
